@@ -1,0 +1,6 @@
+{
+  "name": "Scam Shield AI",
+  "description": "An AI-powered scam detection tool that analyzes text and transcriptions for urgency, money requests, job scams, and emotional manipulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
